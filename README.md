@@ -10,6 +10,8 @@ The full analysis and guides live in Claude Docs, where the team edits and comme
   https://claude.ai/code/artifact/cc07bebf-e2f3-47cf-8c5b-e61acc087806
 - **Haider and MK Training and Job Guide**: concepts, skills-gap tests, a 12-week learning timeline, what Najam must provide, a step-by-step manual for every job MK and Haider own, and curated learning resources.
   https://claude.ai/code/artifact/80b4946d-4862-4d63-82cb-c79f2b7b855e
+- **Walmart Seller Account Recovery Plan**: the likely cause of the Walmart Marketplace lockout, how to settle the unknown gmail address, a day-by-day plan, escalation channels, when a new application is safe, a document checklist and ready-to-send emails.
+  https://claude.ai/code/artifact/4ecca0bf-2192-4e28-a256-fd05749dc0a1
 
 Source plans: the POL Sales Recovery and $100K Plan (Oct 5, 2026), the SolutionsHOCL Sales Rescue and $100K Plan (Oct 5, 2026) and the LSW implementation brief (Oct 6, 2026).
 
