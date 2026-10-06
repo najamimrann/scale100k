@@ -1,0 +1,28 @@
+Owner,Due,Store,Task,Done when,Status
+Najam,2026-10-06,All,Open one portfolio board; load this table; assign MK and Haider,Board shared with both,Not started
+Najam,2026-10-06,All,Send Rick one message with every decision and cost request,Message sent; answers due Oct 8,Not started
+Najam,2026-10-07,"POL, HOCL","Reconnect Meta; pull Aug 1 to Oct 5 spend, purchases and CAC; find the Aug 31 cause",Cause written; screenshots linked,Not started
+Najam,2026-10-07,All,Find the trafficheap source and any other traffic vendor or app,Vendor named and removed,Not started
+Najam,2026-10-07,LSW,"Istanbul review: T03 stock truth first, then mapping, costs, manufacturer",T03 decision recorded,Not started
+Najam,2026-10-07,HOCL,Read the Shop Campaigns fee per order; check POL and LSW for the same channel,Fee recorded,Not started
+Najam,2026-10-08,All,Enter Rick's product costs; set a first CAC ceiling per hero SKU,Cost sheet filled,Not started
+Najam,2026-10-09,All,Claims register and approved word list per brand; sign off Haider's scripts,Register linked,Not started
+Najam,2026-10-09,"POL, LSW",Decide the home for new POL filter subscriptions,Decision logged,Not started
+Najam,2026-10-12,All,"First Monday scorecard, U.S. only, one column per store",Scorecard posted,Not started
+MK,2026-10-06,HOCL,"Block the checkout bot on the Basic plan: pause abandoned-checkout emails, retire the variant ID the bot targets, tag the email pattern with Flow",Under 5 abandoned checkouts a day for 3 days,Not started
+MK,2026-10-06,LSW,Preview and publish the corrected draft theme; rename the Seal plan to 12 month; fix the privacy link,Live pages checked on mobile,Not started
+MK,2026-10-06,POL,"Fix false Out of Stock, the $69.97 vs $79.97 price and the -35 bundle",Zero price or stock conflicts,Not started
+MK,2026-10-07,HOCL,Delete about 800 fake customers; pause abandoned-checkout emails until then,Customer export before and after,Not started
+MK,2026-10-07,LSW,Fix the swapped white-pack SKUs and the duplicate 7500 Filter 1 records,SKU table and labeled photos,Not started
+MK,2026-10-08,HOCL,"Speed fix on Catchment 500 g, Toilet Bomb and home: hCaptcha off, lazy gallery, defer scripts",Mobile LCP under 3.0 s; PageSpeed links,Not started
+MK,2026-10-09,POL,Copy the speed fix to the flagship pitcher page and home,"Mobile LCP under 3.0 s, or blockers listed",Not started
+MK,2026-10-09,All,"One test order per store; verify Meta Pixel, CAPI and GA4 purchase events",Event IDs screenshotted,Not started
+MK,2026-10-09,LSW,Pull a 60-day baseline with ShopifyQL; report all stores on U.S. Central,LSW column filled in the scorecard,Not started
+MK,2026-10-10,HOCL,"Hide Pool, Spa and Cold Plunge; remove the empty Aquaponics menu; fix typos",Screenshots,Not started
+MK,2026-10-12,HOCL,"Merge duplicate tank listings, add 301 redirects, move the 13 reviews",3 canonical URLs live,Not started
+MK,2026-10-12,POL,"Build Good, Better, Best above the fold with Haider's graphics",Add to cart tested on iPhone and Android,Not started
+Haider,2026-10-06,"POL, HOCL","6 scripts: POL demo, taste, value; Toilet Bomb scoop-wait-flush, ring before and after, cost per use",Scripts pass the word lists,Not started
+Haider,2026-10-08,POL,"3 Good, Better, Best offer graphics: $79.97, about $117.97, about $159.91",Files handed to MK,Not started
+Haider,2026-10-11,POL,"3 videos, 9:16, 15 s, first two seconds show the pitcher",Files named and filed,Not started
+Haider,2026-10-11,HOCL,"3 Toilet Bomb videos and 3 statics, leading with the 33-use pack",Files named and filed,Not started
+Haider,2026-10-12,All,"Asset library with one naming rule: brand, angle, format, version, date",Folder link,Not started
